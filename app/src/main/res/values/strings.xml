@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Canastra THZ</string>
+    <string name="export_chooser">Exportar histórico</string>
+    <string name="export_error">Não foi possível exportar o histórico.</string>
+</resources>
